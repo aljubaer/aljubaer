@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I am Jubaer   👋 :computer: 
 
-- I'm a full-stack developers 
+- I'm a full-stack developer
 
 
 ## ⚡ Technologies
